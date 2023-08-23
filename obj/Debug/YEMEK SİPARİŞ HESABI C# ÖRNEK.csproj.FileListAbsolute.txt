@@ -1,0 +1,8 @@
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\obj\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\obj\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\obj\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\bin\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.exe.config
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\bin\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.exe
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\bin\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.pdb
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\obj\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.exe
+C:\Users\tarik\source\repos\YEMEK SİPARİŞ HESABI C# ÖRNEK\YEMEK SİPARİŞ HESABI C# ÖRNEK\obj\Debug\YEMEK SİPARİŞ HESABI C# ÖRNEK.pdb
